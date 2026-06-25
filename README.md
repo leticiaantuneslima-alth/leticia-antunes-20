@@ -1,2 +1,3 @@
-# leticia-antunes-20
-educação digital
+Meu blog tech
+
+vou compartilhar conhecimentos sobre tecnologia e programação 
